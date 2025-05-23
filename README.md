@@ -1,1 +1,7 @@
-# Srida-IT-Consulting-and-Services-Pvt-Ltd.-Cybersecurity-SIEM-Internship-Program
+| Component         | Details                    |
+| ----------------- | -------------------------- |
+| Splunk Enterprise | Ubuntu 20.04               |
+| Victim Machine    | Windows 10                 |
+| Forwarder         | Splunk Universal Forwarder |
+| Attacker          | Kali Linux                 |
+****
